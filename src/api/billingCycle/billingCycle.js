@@ -1,5 +1,3 @@
-import { mongo } from 'mongoose';
-
 const restful = require('node-restful')
 const mongoose =  restful.mongoose
 
